@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Payment</string>
+    <string name="title_activity_smsactivity">SMSActivity</string>
+    <string name="store_name">Maa Jagadamba Beauty Parlour</string>
+    <string name="scan_help_text">Scan this QR code to pay!</string>
+    <string name="info_text">This is a reusable code for your use. Pay to this code every time you purchased this app.</string>
+    <string name="title_activity_new_view">NewViewActivity</string>
+</resources>
